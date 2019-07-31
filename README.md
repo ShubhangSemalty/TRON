@@ -1,1 +1,6 @@
 # TRON
+
+Tron: Evolution is a third-person action game with racing and role-playing game elements incorporated. The game features both singleplayer and multiplayer modes. The basic gameplay focuses on acrobatics and combat. Player's movements are heavily parkour-influenced, while combat was inspired by capoeira. The game also features light cycle races. Each cycle leaves a light trail that can destroy or "derez" any enemy. Evolution features persistent character progression system, that lets players earn new levels and unlock new upgrades, both in multiplayer and singleplayer. 
+
+#Plot
+Tron: Evolution serves as a precursor to the movie Tron: Legacy and sequel to both the graphic novel Tron: Betrayal and the Nintendo Wii and DS versions, Tron: Evolution - Battle Grids. It is designed to be an integral part of the Tron story, featuring certain characters and settings from both films. Tron: Evolution explains the events that led to Kevin Flynn's imprisonment inside the Grid, as well as telling how the Grid evolved through the years. The player controls a system monitor program named "Anon" (short for anonymous) - a security program owned by Flynn to investigate a conspiracy in the world of Tron.
